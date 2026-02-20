@@ -32,7 +32,7 @@ pip install flask
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdii-pro/PRODIGY_BWD_01
+   git clone https://github.com/firesoul46/PRODIGY_BWD_01
    cd PRODIGY_BWD_01
    ```
 
@@ -66,8 +66,8 @@ pip install flask
 
 ```json
 {
-  "name": "Ali",
-  "email": "ali@example.com",
+  "name": "Syed",
+  "email": "syed@example.com",
   "age": 25
 }
 ```
@@ -81,8 +81,3 @@ pip install flask
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
